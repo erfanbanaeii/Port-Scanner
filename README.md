@@ -1,7 +1,7 @@
 # Port Scanner
 Port Scanner
 
-##Install
+## Install
 ```
 https://github.com/erfanbanaei/Port-Scanner
 pip install -r requirements
